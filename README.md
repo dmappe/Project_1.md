@@ -1,23 +1,25 @@
-# 🌐 Project Website
+# 🚗 Vehicle Data Visualization App
 
 ## 🔎 Overview
-This project is my personal portfolio website, designed to showcase my skills, projects, and professional journey.  
-It serves as a central hub where recruiters, collaborators, and peers can learn more about me and explore my work.
+This project is an interactive web application built with **Streamlit** that explores and visualizes a dataset of vehicles.  
+It demonstrates how Python can be used to analyze data and present insights through interactive charts and dashboards.
 
 ## ✨ Features
-- 🖼️ Clean and responsive design
-- 🔗 Links to GitHub repositories
-- 🌍 Deployed online using [Render](https://render.com)
+- 📊 Interactive visualizations (bar charts, line graphs, scatter plots)
+- 🔎 Filtering options to explore specific subsets of the dataset
+- 📂 Data exploration using Pandas
+- 🌐 Deployed online with Render for easy access
 
 ## 🛠 Tech Stack
-- **HTML5** – Structure and content
-- **CSS3** – Styling and layout
-- **JavaScript** – Interactivity
+- **Python**
+- **Pandas** – Data manipulation
+- **Matplotlib / Seaborn** – Visualization
+- **Streamlit** – Web app framework
 - **Render** – Hosting and deployment
 
 ## 🚀 Live Demo
-You can view the live site here:  
-👉 [Portfolio Website](https://readme-md-leuk.onrender.com/)
+Check out the deployed app here:  
+👉 [Vehicle Data Visualization App](https://readme-md-leuk.onrender.com/)
 
 ## ▶️ How to Run Locally
 1. Clone the repository:
