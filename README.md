@@ -37,12 +37,15 @@ Check out the deployed app here:
    git clone https://github.com/dmappe/Portfolio_Website.git
 
 2. Navigate to the project folder:
+   ```bash
    cd Portfolio_Website
    
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
-4. Run the app:
+6. Run the app:
+   ```bash
    streamlit run app.py
 
 ## 📸 Screenshots
